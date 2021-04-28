@@ -1,0 +1,17 @@
+.color-primary{
+    color: hsl(190, 38%, 25%);
+}
+body,td,th{
+    background-color: hsl(190, 38%, 25%);
+    color: hsl(190, 38%, 75%);
+    font-size: 1.5rem;
+}
+.container{
+    background-color: hsl(190, 38%, 75%)
+}
+.hidden{
+    display: none;
+}
+nav{
+    background-color: hsl(190, 38%, 25%);
+}
